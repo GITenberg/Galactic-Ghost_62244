@@ -1,0 +1,26 @@
+_repo: Galactic-Ghost_62244
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kubilius, Walter
+    birthdate: 1918
+    deathdate: 1993
+    gutenberg_agent_id: '51847'
+    url: http://www.gutenberg.org/2009/agents/51847
+description: ''
+gutenberg_issued: '2020-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62244'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Space ships -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- GITenberg
+title: Galactic Ghost
+url: http://www.gutenberg.org/ebooks/62244
